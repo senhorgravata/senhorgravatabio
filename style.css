@@ -53,10 +53,10 @@ h1 {
 
 .links a {
   display: block;
-  margin: 10px 25px;
+  margin: 10px 50px;
   padding: 12px;
-  border: 1px solid #7a6448;
-  border-radius: 30px;
+  border: 1.0px solid #7a6448;
+  border-radius: 20px;
   text-decoration: none;
   color: #7a6448;
   transition: all 0.3s;
@@ -82,3 +82,4 @@ footer img {
   width: 18px;
   height: 18px;
 }
+
